@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/showflix-react/static/css/main.e424b3f5.css",
-    "main.js": "/showflix-react/static/js/main.012e312c.js",
-    "static/js/787.faa05a9e.chunk.js": "/showflix-react/static/js/787.faa05a9e.chunk.js",
-    "index.html": "/showflix-react/index.html",
-    "main.e424b3f5.css.map": "/showflix-react/static/css/main.e424b3f5.css.map",
-    "main.012e312c.js.map": "/showflix-react/static/js/main.012e312c.js.map",
-    "787.faa05a9e.chunk.js.map": "/showflix-react/static/js/787.faa05a9e.chunk.js.map"
+    "main.css": "/react-showflix/static/css/main.e424b3f5.css",
+    "main.js": "/react-showflix/static/js/main.71269b21.js",
+    "static/js/787.faa05a9e.chunk.js": "/react-showflix/static/js/787.faa05a9e.chunk.js",
+    "index.html": "/react-showflix/index.html",
+    "main.e424b3f5.css.map": "/react-showflix/static/css/main.e424b3f5.css.map",
+    "main.71269b21.js.map": "/react-showflix/static/js/main.71269b21.js.map",
+    "787.faa05a9e.chunk.js.map": "/react-showflix/static/js/787.faa05a9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e424b3f5.css",
-    "static/js/main.012e312c.js"
+    "static/js/main.71269b21.js"
   ]
 }
